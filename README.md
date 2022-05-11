@@ -6,3 +6,4 @@ This Github project is my way of getting familiar with game development techniqu
 Contribution
 ============
 If anyone wishes to contribute to this project, create a branch with your changes and submit a pull request. 
+More issues will be made in the future, PRs should have their changes based on an issue. 
